@@ -20,16 +20,17 @@ https://www.linkedin.com/in/natalie-francis-b641b514a/
 
 ## Meetups I've attended:
 9/29 - Denver Script
+
 10/7 - Women in Tech Summit (not sure if it counts)
 
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
-I am drawn to working for a startup, I feel like I may learn more working in that environment. That's really my goal for my first job -to be able to grow. I would love a mentor.
+I am drawn to working for a agency, sounds like I may learn more working in that environment. That's really my goal for my first job -to be able to grow. I would love a mentor.
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-I am leaning towards Frontend but I honestly don't know. I am super great working with other people (even dealing with clients) so whichever role takes me in that direction I'd probably excel at.
+I am leaning towards Backend but I honestly don't know. I am super great working with other people (even dealing with clients) so whichever role takes me in that direction I'd probably excel at.
 
 ## Link to my resume: 
-none yet
+[preliminary resume](./resume.png)
 
 ## Link to my portfolio website: 
 none yet
