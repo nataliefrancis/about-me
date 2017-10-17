@@ -23,6 +23,8 @@ https://www.linkedin.com/in/natalie-francis-b641b514a/
 
 10/7 - Women in Tech Summit (not sure if it counts)
 
+10/16 - HTML5 Denver User Group
+
 ## What type of company would you like to work for (i.e. Agency, Product, Startup)?
 I am drawn to working for a agency, sounds like I may learn more working in that environment. That's really my goal for my first job -to be able to grow. I would love a mentor.
 
