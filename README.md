@@ -7,7 +7,7 @@ I was an Escrow Officer/Supervisor at a title/escrow company in Alaska.
 Mostly I am looking for the job postings, or direction on what companies I should go for.
 
 ## Day 1 Goals:
-Understand JS loops better, it was a head-scratcher for me during the pre-work.
+Understand JS loops better, it was a head-scratcher for me during the pre-work. (this now makes me laugh)
 
 ## Two Truths and a Lie
 
@@ -29,10 +29,10 @@ https://www.linkedin.com/in/natalie-francis-b641b514a/
 I am drawn to working for a agency, sounds like I may learn more working in that environment. That's really my goal for my first job -to be able to grow. I would love a mentor.
 
 ## What kind of role are you leaning towards (i.e. Frontend, Backend, etc)?
-I am leaning towards Backend but I honestly don't know. I am super great working with other people (even dealing with clients) so whichever role takes me in that direction I'd probably excel at.
+I am leaning towards Backend but I honestly don't know. I am super great working with other people (even dealing with clients) so whichever role takes me in that direction I'd probably excel at. I'd be perfectly happy to work on the front end, I need some refined skills in that area.
 
 ## Link to my resume: 
-[preliminary resume](./resume.png)
+[resume](./resume.pdf)
 
 ## Link to my portfolio website: 
-none yet
+https://www.nataliefrancis.co
