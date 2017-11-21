@@ -35,4 +35,4 @@ I am leaning towards Backend but I honestly don't know. I am super great working
 [resume](./resume.pdf)
 
 ## Link to my portfolio website: 
-https://www.nataliefrancis.co
+www.nataliefrancis.co
